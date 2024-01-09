@@ -17,7 +17,7 @@ decorator==5.1.1
 executing==1.2.0
 fastjsonschema==2.16.3
 flake8==6.0.0
-fonttools==4.38.0
+fonttools==4.43.0
 -e git+ssh://git@github.com/smb-h/heart-association-rules.git@dabd55e112f091bb7e5f6d4351139d5f56936e80#egg=har
 idna==3.4
 ipykernel==6.21.3
