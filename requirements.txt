@@ -19,7 +19,7 @@ fastjsonschema==2.16.3
 flake8==6.0.0
 fonttools==4.43.0
 -e git+ssh://git@github.com/smb-h/heart-association-rules.git@dabd55e112f091bb7e5f6d4351139d5f56936e80#egg=har
-idna==3.4
+idna==3.7
 ipykernel==6.21.3
 ipython==8.11.0
 isort==5.12.0
